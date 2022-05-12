@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://github.com/jerous86/nim_midi",
   "refs": [
-    "fatal: unable to access 'https://github.com/jerous86/nim_midi/': Failed to connect to github.com port 443 after 138005 ms: Connection timed out",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "nim_midi",
+      "version": "0.1",
+      "author": "jerous",
+      "desc": "Read and write midi files",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
