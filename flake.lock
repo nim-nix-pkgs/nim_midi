@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652791738,
-        "narHash": "sha256-OcCxWj5EJYH1E8QrVk1BDXOcTiCZX7Ed3zaiAjUlrZE=",
+        "lastModified": 1652797376,
+        "narHash": "sha256-xo4+lrV+mXeuePi3S2goGZ2D1Kib+/2qn8P/QV1MfaA=",
         "owner": "nim-nix-pkgs",
         "repo": "nim_midi",
-        "rev": "97383f93952583addb2d0435759c1dcf769b9fad",
+        "rev": "e3ec79796e79b83667518a82f053c421a4093a90",
         "type": "github"
       },
       "original": {
